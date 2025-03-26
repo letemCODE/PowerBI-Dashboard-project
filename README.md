@@ -15,8 +15,7 @@ It provides a simple, interactive and intutive layout to aid stakeholders track 
   Measures created using DAX to compute key performance indicators and other valuable features.  
 
 - **Performance Metrics**  
-  Displays insightful KPIs like: Revenue, Revenue Contribution %, Profit Margin %, Profit Margin Contribution %.  
-  These add crucial context while gauging performance.  
+  Displays truly insightful KPIs like Revenue, Revenue Contribution %, Profit Margin %, Profit Margin Contribution %, etc. adding crucial context while guaging performance. 
 
 - **Reports**  
   Includes different report pages for alternate perspectives on the data.
