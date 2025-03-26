@@ -19,11 +19,7 @@ It provides a simple, interactive, and intuitive layout to aid stakeholders in:
   Measures created using DAX to compute key performance indicators and other valuable features.  
 
 - **Performance Metrics**  
-  Displays insightful KPIs like:
-  - Revenue
-  - Revenue Contribution %
-  - Profit Margin %
-  - Profit Margin Contribution %  
+  Displays insightful KPIs like: Revenue, Revenue Contribution %, Profit Margin %, Profit Margin Contribution %.  
   These add crucial context while gauging performance.  
 
 - **Reports**  
@@ -63,14 +59,7 @@ An SQL database with 5 tables:
    Product information: Product Name, Code  
 
 5. **sales_transactions**  
-   Transaction details:
-   - Product
-   - Customer
-   - Market
-   - Date
-   - Currency
-   - Sales amount
-   - Quantity
+   Transaction details: Product, Customer, Market, Date, Currency, Sales amount, Quantity  
 
 ## 5. How to Use
 
