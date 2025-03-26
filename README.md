@@ -2,11 +2,7 @@
 
 ## 1. Project Overview
 This dashboard provides highly informative insights into a company's sales performance by analyzing customer data across multiple regions and periods of time.  
-It provides a simple, interactive, and intuitive layout to aid stakeholders in:
-- Tracking useful key performance indicators (KPIs)
-- Identifying trends
-- Revealing context
-- Supporting informed decision-making
+It provides a simple, interactive and intutive layout to aid stakeholders track useful key performance indicators (KPIs), identify trends, reveal context and support informed decision making.
 
 ## 2. Features
 - **Interactive Visualizations**  
