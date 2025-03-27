@@ -12,7 +12,10 @@ It provides a simple, interactive and intutive layout to aid stakeholders track 
   Data can be filtered by time periods, regions, or other key attributes. (Date and Feature Filters/Slicers)  
 
 - **Measures**  
-  Measures created using DAX to compute key performance indicators and other valuable features.  
+  Measures created using DAX to compute key performance indicators and other valuable features.
+
+- **Data Model**
+  Designed and implemented a star schema including fact tables (sales_transactions) and dimension tables (sales_customers, sales_products, sales_date, sales_market, sales_product). This model ensures efficient querying and data relationships.
 
 - **Performance Metrics**  
   Displays truly insightful KPIs like Revenue, Revenue Contribution %, Profit Margin %, Profit Margin Contribution %, etc. adding crucial context while guaging performance. 
