@@ -67,3 +67,7 @@ An SQL database with 5 tables:
   - Drill down into specific data by clicking on charts.
   - Filter using slicers (e.g., Date, Region).
   - Hover over visuals to view detailed tooltips.
+
+## 6. License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
